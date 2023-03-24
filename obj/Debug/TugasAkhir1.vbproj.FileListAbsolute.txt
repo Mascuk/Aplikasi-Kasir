@@ -1,0 +1,68 @@
+C:\Users\Andhika\source\repos\TugasAkhir1\TugasAkhir1\bin\Debug\TugasAkhir1.exe.config
+C:\Users\Andhika\source\repos\TugasAkhir1\TugasAkhir1\bin\Debug\TugasAkhir1.exe
+C:\Users\Andhika\source\repos\TugasAkhir1\TugasAkhir1\bin\Debug\TugasAkhir1.pdb
+C:\Users\Andhika\source\repos\TugasAkhir1\TugasAkhir1\bin\Debug\TugasAkhir1.xml
+C:\Users\Andhika\source\repos\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.vbproj.AssemblyReference.cache
+C:\Users\Andhika\source\repos\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.Form1.resources
+C:\Users\Andhika\source\repos\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.Resources.resources
+C:\Users\Andhika\source\repos\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.vbproj.GenerateResource.cache
+C:\Users\Andhika\source\repos\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.vbproj.CoreCompileInputs.cache
+C:\Users\Andhika\source\repos\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.exe
+C:\Users\Andhika\source\repos\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.xml
+C:\Users\Andhika\source\repos\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.pdb
+C:\Users\Andhika\source\repos\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.Form3.resources
+C:\Users\Andhika\source\repos\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.Form4.resources
+C:\Users\Andhika\source\repos\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.Form2.resources
+D:\Kuliah\Sem 3\Pemrograman Desktop\TugasAkhir1\TugasAkhir1\bin\Debug\TugasAkhir1.exe.config
+D:\Kuliah\Sem 3\Pemrograman Desktop\TugasAkhir1\TugasAkhir1\bin\Debug\TugasAkhir1.exe
+D:\Kuliah\Sem 3\Pemrograman Desktop\TugasAkhir1\TugasAkhir1\bin\Debug\TugasAkhir1.pdb
+D:\Kuliah\Sem 3\Pemrograman Desktop\TugasAkhir1\TugasAkhir1\bin\Debug\TugasAkhir1.xml
+D:\Kuliah\Sem 3\Pemrograman Desktop\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.vbproj.AssemblyReference.cache
+D:\Kuliah\Sem 3\Pemrograman Desktop\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.Form1.resources
+D:\Kuliah\Sem 3\Pemrograman Desktop\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.Form3.resources
+D:\Kuliah\Sem 3\Pemrograman Desktop\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.Form4.resources
+D:\Kuliah\Sem 3\Pemrograman Desktop\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.Resources.resources
+D:\Kuliah\Sem 3\Pemrograman Desktop\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.vbproj.GenerateResource.cache
+D:\Kuliah\Sem 3\Pemrograman Desktop\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Sem 3\Pemrograman Desktop\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.exe
+D:\Kuliah\Sem 3\Pemrograman Desktop\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.xml
+D:\Kuliah\Sem 3\Pemrograman Desktop\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.pdb
+D:\Kuliah\Sem 3\Pemrograman Desktop\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.FormO.resources
+D:\Kuliah\Sem 3\Pemrograman Desktop\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.FormP.resources
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\TugasAkhir1.exe.config
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\TugasAkhir1.exe
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\TugasAkhir1.pdb
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\TugasAkhir1.xml
+D:\DEL\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.vbproj.AssemblyReference.cache
+D:\DEL\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.Resources.resources
+D:\DEL\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.vbproj.GenerateResource.cache
+D:\DEL\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.vbproj.CoreCompileInputs.cache
+D:\DEL\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.exe
+D:\DEL\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.xml
+D:\DEL\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.pdb
+D:\DEL\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.Form2.resources
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\CrystalDecisions.Shared.dll
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DEL\TugasAkhir1\TugasAkhir1\bin\Debug\stdole.dll
+D:\DEL\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.vbproj.CopyComplete
+D:\DEL\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.Login.resources
+D:\DEL\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.FormStokBarang.resources
+D:\DEL\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.FormSupplier.resources
+D:\DEL\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.FormSearchBarang.resources
+D:\DEL\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.FormTransaksi.resources
+D:\DEL\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.FormLaporan.resources
+D:\DEL\TugasAkhir1\TugasAkhir1\obj\Debug\TugasAkhir1.FormInvoice.resources

@@ -1,0 +1,241 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TugasAkhir1
+</name>
+</assembly>
+<members>
+<member name="T:TugasAkhir1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources._28518">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.air_1_5x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.air_1_5x1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.Barang2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.Card_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.Cetak">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.Group_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.Group_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.Group_7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.Indomie_1_5x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.Indomie_1x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.Indomie_2x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.Kasir">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.kopi_1_5x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.List">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.Nasi_Pecel_1_5x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.Pecel_1_5x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.soda_1_5x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.Supply">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.susu_1_5x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.teh_1_5x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TugasAkhir1.My.Resources.Resources.wedang_1_5x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:TugasAkhir1.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TugasAkhir1.DataSet1.TBLTRANSAKSIDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TugasAkhir1.DataSet1.TBLDATABARANGDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TugasAkhir1.DataSet1.TBLDATASUPPLIERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TugasAkhir1.DataSet1.TBLTRANSAKSIRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TugasAkhir1.DataSet1.TBLDATABARANGRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TugasAkhir1.DataSet1.TBLDATASUPPLIERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TugasAkhir1.DataSet1.TBLTRANSAKSIRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TugasAkhir1.DataSet1.TBLDATABARANGRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TugasAkhir1.DataSet1.TBLDATASUPPLIERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TugasAkhir1.DataSet1TableAdapters.TBLTRANSAKSITableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TugasAkhir1.DataSet1TableAdapters.TBLDATABARANGTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TugasAkhir1.DataSet1TableAdapters.TBLDATASUPPLIERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TugasAkhir1.DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TugasAkhir1.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(TugasAkhir1.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TugasAkhir1.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(TugasAkhir1.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TugasAkhir1.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(TugasAkhir1.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TugasAkhir1.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TugasAkhir1.DataSet1TableAdapters.TableAdapterManager.UpdateAll(TugasAkhir1.DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TugasAkhir1.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TugasAkhir1.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
